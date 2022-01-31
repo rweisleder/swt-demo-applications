@@ -1,0 +1,4 @@
+= SWT Demo Applications
+
+This repository contains some demo applications using Eclipse SWT.
+In the past, I used these applications as minimal reproducer for bugs.
